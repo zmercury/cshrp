@@ -1,0 +1,14 @@
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\bin\Debug\net9.0\b_class_object_data_members.exe
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\bin\Debug\net9.0\b_class_object_data_members.deps.json
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\bin\Debug\net9.0\b_class_object_data_members.runtimeconfig.json
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\bin\Debug\net9.0\b_class_object_data_members.dll
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\bin\Debug\net9.0\b_class_object_data_members.pdb
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\b_class_object_data_members.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\b_class_object_data_members.AssemblyInfoInputs.cache
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\b_class_object_data_members.AssemblyInfo.cs
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\b_class_object_data_members.csproj.CoreCompileInputs.cache
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\b_class_object_data_members.dll
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\refint\b_class_object_data_members.dll
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\b_class_object_data_members.pdb
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\b_class_object_data_members.genruntimeconfig.cache
+D:\SCVPB6\B_Class_Object\b_class_object_data_members\obj\Debug\net9.0\ref\b_class_object_data_members.dll

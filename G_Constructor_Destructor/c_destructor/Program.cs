@@ -6,6 +6,8 @@ class Employee
     {
         Console.WriteLine("Constructor called.");
     }
+
+    // not executed though destroys the object call.
     ~Employee()
     {
         Console.WriteLine("Destructor called.");
